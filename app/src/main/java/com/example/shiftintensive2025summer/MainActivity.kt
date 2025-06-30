@@ -21,6 +21,8 @@ class MainActivity : ComponentActivity() {
             ShiftIntensive2025SummerTheme {
                 // Some changes
 
+                // Some logic
+
 
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
