@@ -19,6 +19,13 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             ShiftIntensive2025SummerTheme {
+                // Some changes
+
+                // Some logic
+
+                // Some network things
+
+
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
                         name = "Android",
