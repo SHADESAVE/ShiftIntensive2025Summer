@@ -23,6 +23,8 @@ class MainActivity : ComponentActivity() {
 
                 // Some logic
 
+                // Some network things
+
 
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
